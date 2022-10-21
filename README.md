@@ -16,7 +16,6 @@ To write a program to perform selection sort and insertion sort using python pro
 3.	Break the loop and insert X.
 4.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
-i)
 ## Selection Sort:
 
 ``` python
@@ -46,9 +45,7 @@ print(arr)
 
 
 
-
 ```
-ii)
 ## Insertion Sort:
 ```python
 '''
