@@ -41,10 +41,6 @@ size = len(arr)
 selectionSort(arr, size)
 print(arr)
 
-
-
-
-
 ```
 ## Insertion Sort:
 ```python
@@ -65,8 +61,6 @@ def insertion_sort(nums):
 list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
-
-
 
 
 
