@@ -44,12 +44,14 @@ print(arr)
 
 
 
-
-
-
 ```
 ii)	#Insertion Sort
-``` python 
+```python
+'''
+Program to sort the elements in the list using the Insertion Sorting Algorithm.
+Developed by: Siva Chandran R
+RegisterNumber: 22005531
+'''
 def insertion_sort(nums):
     for i in range(1,len(nums)):
         item_to_insert=nums[i]
